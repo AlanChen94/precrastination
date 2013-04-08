@@ -6,6 +6,6 @@ public class Task{
 	public Task(taskName, dueDate){
 		this.taskName = taskName;
 		this.dueDate = dueDate;
-	}	
+				}	
 
 }
