@@ -4,10 +4,8 @@ public class Task{
 	private Date dueDate;
 
 	public Task(taskName, dueDate){
-
 		this.taskName = taskName;
 		this.dueDate = dueDate;
-
 	}	
 
 }
